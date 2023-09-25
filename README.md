@@ -1,7 +1,6 @@
-### Olá, Eu sou o Raí Araujo 🖐️
+### Hello, I'm Raí Araujo 🖐️
 
-
-- 🔭 Estudante de Ciencias da Computação
+🔭 Computer Science Student
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rai_araujo30/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%AD-araujo-66b288285/)
@@ -9,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiAraujo30&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso 
+## Most used languages
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
