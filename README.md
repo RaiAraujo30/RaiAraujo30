@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiAraujo30&show_icons=true&theme=radical)
 
-## Most used languages
+## Most used technologies
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
