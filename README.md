@@ -6,8 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%AD-araujo-66b288285/)
   <a href = "mailto:raisanhacu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiAraujo30&show_icons=true&theme=radical)
-](https://github-readme-stats-fast.vercel.app/api?username=RaiAraujo30&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RaiAraujo30&show_icons=true&theme=radical)
 ## Most used technologies
 
 ### Programming Languages
